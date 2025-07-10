@@ -1,0 +1,4 @@
+mcp-agent
+streamlit
+anthropic
+openai
